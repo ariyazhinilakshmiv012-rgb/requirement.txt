@@ -4,4 +4,5 @@ plotly
 numpy
 openpyxl
 
+
 # requirement.txt
